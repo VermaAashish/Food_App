@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "202717112553",
+    "project_id": "yamzi-food-app",
+    "storage_bucket": "yamzi-food-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202717112553:android:402bf063daa68853dc2878",
+        "android_client_info": {
+          "package_name": "com.example.yamzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202717112553-i31mfq6da4bkqiq0d2bcl7kl28qu65j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yamzi",
+            "certificate_hash": "e30f092763c5a68b2820f5d1e455c2c28cd60d6d"
+          }
+        },
+        {
+          "client_id": "202717112553-56f0572gj866mnkss3h816p6hqtq2tnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWgaENcBV_-IxbrBsFCPDZ831eUNc7BuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202717112553-56f0572gj866mnkss3h816p6hqtq2tnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202717112553-im207f4c3g7cui0lbacegkd922r4tipu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yamzi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
